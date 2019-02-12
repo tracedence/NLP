@@ -1,5 +1,4 @@
-# NLP
-Different project on NLP
+# NLP projects
 1.News Headlines Dataset For Sarcasm Detection
 
 Past studies in Sarcasm Detection mostly make use of Twitter datasets collected using hashtag based supervision but such datasets are noisy in terms of labels and language. Furthermore, many tweets are replies to other tweets and detecting sarcasm in these requires the availability of contextual tweets.
