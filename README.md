@@ -32,6 +32,6 @@ The prediction has to be made using only the text of the tweet.
 Dataset:
 One file files is provided as follows
 1. sarcasam.csv - This file contains three columns -
-○ ID - ID for each tweet
-○ tweet - contains the text of the tweet
-○ label - the label for the tweet (‘sarcastic’ or ‘non-sarcastic’)
+  * ID - ID for each tweet
+  * tweet - contains the text of the tweet
+  * label - the label for the tweet (‘sarcastic’ or ‘non-sarcastic’)
